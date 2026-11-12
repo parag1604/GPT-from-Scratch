@@ -6,7 +6,7 @@ Code for a decoder-only transformer (GPT) language model written from scratch in
 
 ## Theory
 
-Lecture notes for this topic are coming soon on https://parag1604.github.io/notes
+A dedicated lecture on language models is coming soon on https://parag1604.github.io/notes. Until then, attention, causal masking and the transformer block are covered in this [page](https://parag1604.github.io/notes/Machine-Learning/Applications-of-Neural-Networks#attention-and-transformers) (section "Attention and transformers")
 
 ## Python Environment Setup
 
