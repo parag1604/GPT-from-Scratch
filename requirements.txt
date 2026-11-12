@@ -1,3 +1,4 @@
+torch>=2.1
 numpy
-torch
-tqdm
+matplotlib
+transformers  # versions 5-6 only (GPT-2 weights and tokenizer)

@@ -1,0 +1,114 @@
+===== version0.py (sample after training; temperature 1.0)
+
+
+
+CEThik brid owindakis by bth
+
+HAPen bube t e.
+S:
+O:
+IS:
+Folatanss:
+Wantharun qur, vet?
+F dilasoate awice my.
+Whandacom oroup
+Yowhthetof isth ble mil ndill, ath ireeesengmin lat Heridrovets, and Win nghir.
+Thanousel lind te l.
+MAshe ce hiry:
+Supr aisspll, y.
+Hentous n Boopetelaves
+MPOLI s, d mothakleo Windo whth eisbyo the m dourive ce hidend t so mower; te
+
+AN ad nterupirf sor; iris! m:
+
+Thiny aleronth,
+Mad
+Whed my o myrangoube!
+
+===== version1.py (sample after training; temperature 1.0)
+
+And they bry cowr,
+The on, bth
+Y:iset bobe ale.
+Sthr-'
+SA:
+SYBeanss:
+Want he usquet vet?
+Wedilas ates wice my.
+
+Hastat myorou tabuts, tof isth ble milendill, ats iree sen cie lat Het drovets, and Wing.
+GRo.
+
+Wabous lplind peall thule cechiry: tuprinesspll, ye wllingu normopeen aves
+Momy.
+Whod mothakeeo Windo whe Ceiings the my,
+Now, Thees ired thoo mowe-x'ss
+Tow admy,
+Tupirf sor; igr the: monge inle onto,
+Mad re?
+
+WAS:
+Nor fige a!
+At ybuisad adsad the Ed forut in cmerasar tey Iry ts I fr af voun
+
+===== version2.py (sample after training; temperature 1.0)
+
+An incience times! These wench on thee with thy wife,
+The colour's advice of thy world's face,
+Even so set for truth; for then the rascald stop of thy
+shame, and sometimes to thee poor bad-found their hearts' daughters,
+When Bolingbroke's surfeits are true breath
+In Lewis own title than dost what we bar
+A man ounce.
+
+LUCIO:
+Prove a condition of my thumb'd such vassals, which I
+Give me society, to my tribble unto thy faither's love
+And hung upon her soul teat her;
+I mean the first thou hourld to 
+
+===== version3.py (sample after training; temperature 1.0)
+
+For our own's, be our country's yet, and kill'd
+Without an of such assied men
+Turns like lamps and poster. Her eyes rather cold scars,
+Is he more favours that would find the king
+And crack'd than doth still foreign back to make in war
+With such a limbs make expect offer it so.
+Now this day and will resign my heart
+Recover his conscience and his poor house:
+Give me leave and kill befall,
+For mine office, prayers; let the duke.
+
+KING RICHARD III:
+And I rouse the pr
+
+===== version4.py (sampled with the KV cache from the version2 model, prompt "ROMEO:")
+ROMEO:
+You bear now, wife, is not to be so much.
+
+MERCUTIO:
+I think there's not affection to be touch'd,
+ere conduct none at my knee
+Looks, to find you this night, beg it enter'd with it.
+
+BENVOLIO:
+Be it possible;
+Not so, like a courtier, one like that night,
+why you may sent of this desire.
+
+MERCUTIO:
+It is not to do evil the man doth live us in her soul
+And struck kindness forfeit; some two flower in
+More than dearer by our red-liberal,
+Show away specially he make her true.
+
+Messenger:
+I crave you,
+
+
+===== version5.py (OpenAI's GPT-2 small in our gpt2.py; temperature 0.8, top-k 50)
+The meaning of life is what we believe, but that is not the only way to live.
+What is the purpose of life?
+The main meaning of life is to live. If you want to live long enough, you'll be able to put the life you want to live into action.
+If

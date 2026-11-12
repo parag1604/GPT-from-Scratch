@@ -161,8 +161,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Project specific
-data/
+# Project specific: data/ is ignored except the two small datasets we ship
+data/*
+!data/tinyshakespeare.txt
+!data/tweet_sentiment/
 models/
 checkpoints/
 runs/
