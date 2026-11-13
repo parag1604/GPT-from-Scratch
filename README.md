@@ -13,7 +13,9 @@ The first part follows the spirit of Andrej Karpathy's lecture [Let's build GPT:
 
 ## Theory
 
-A dedicated lecture on language models is coming soon on https://parag1604.github.io/notes. Until then, attention, causal masking and the transformer block are covered in this [page](https://parag1604.github.io/notes/Machine-Learning/Applications-of-Neural-Networks#attention-and-transformers) (section "Attention and transformers").
+Please note that the theory corresponding to the codes is hosted on these pages:
+- [Sequence Models](https://parag1604.github.io/notes/Machine-Learning/Sequence-Models#attention-and-transformers): attention, causal masking, the transformer block, RoPE, the KV cache, and why most knowledge sits in the MLPs.
+- [Language Representations and Language Models](https://parag1604.github.io/notes/Machine-Learning/Language-Representations-and-Language-Models#next-token-prediction): tokenization and BPE, next-token prediction, scaling laws, in-context learning, and fine-tuning.
 
 ## Python Environment Setup
 
